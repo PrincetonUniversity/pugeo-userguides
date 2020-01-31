@@ -37,7 +37,7 @@ directory, but it is not necessary.
 
 ## 2. Compile and mesh model using parameter set B
 
-Now that we have are old model and `solver_data.bp`, we can focus on
+Now that we have the old model and mesh in `solver_data.bp`, we can focus on
 the new model. Compile specfem and run the mesher using the same model
 as in step one, but with parameter set B.
 
