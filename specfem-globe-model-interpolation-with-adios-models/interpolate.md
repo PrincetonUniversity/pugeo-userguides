@@ -5,7 +5,7 @@ is not at the right resolution, and it has the wrong
 number of MPI slices? Then this set of instructions is 
 for you!
 
-In the following, I will talk about two parameter sets each of 
+In the following, I will talk about two parameter sets, each of 
 which is a combination of 
 
 * NEX_XI/ETA (e.g. 128)
