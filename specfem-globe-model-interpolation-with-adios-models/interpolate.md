@@ -12,9 +12,9 @@ which is a combination of
 * NPROC_XI_ETA (e.g. 2), and
 * CHUNKS (e.g. 6)
 
-[1] Parameter set A, the set of parameters of your 
-    original ADIOS model is in.
-[2] Parameter set B, the parameters of you goal ADIOS model
+1. Parameter set A, the set of parameters of your 
+   original ADIOS model is in.
+2. Parameter set B, the parameters of you goal ADIOS model
 
 While you don't necesarily need two different compiled versions of 
 `SPECFEM`, it is very convenient. In the following however, I will
