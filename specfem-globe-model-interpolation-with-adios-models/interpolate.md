@@ -30,7 +30,8 @@ After meshing is done, save the `solver_data.bp` that was saved in
 To be on the safe side, you can also save the `model_gll.bp` into a new
 directory, but it is not necessary.
 
-:Note:
+**NOTE:**
+
     If you have the resources to do so, it makes sense to run 
     the solver with one station to create a reference trace set.
 
